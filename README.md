@@ -23,7 +23,7 @@
 
 #### 🖥️ Backend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=django,flask,php,laravel,symfony,postgresql,mongodb,firebase" alt="Backend Skills" />
+  <img src="https://skillicons.dev/icons?i=django,flask,php,laravel,symfony" alt="Backend Skills" />
 </p>
 
 #### 🖥 Databases
