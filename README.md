@@ -18,7 +18,7 @@
 
 #### 🌐 Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,angular" alt="Frontend Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,angular,bootstrap" alt="Frontend Skills" />
 </p>
 
 #### 🖥️ Backend
