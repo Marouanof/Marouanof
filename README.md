@@ -23,7 +23,12 @@
 
 #### 🖥️ Backend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,flask,php,laravel,symfony,java" alt="Backend Skills" />
+  <img src="https://skillicons.dev/icons?i=python,django,flask,php,laravel,symfony,java,postgresql,mongodb,firebase" alt="Backend Skills" />
+</p>
+
+#### 🧩 Programming Languages & Frameworks
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,unity" alt="Languages & Frameworks" />
 </p>
 
 #### 🛠️ Tools & Others
