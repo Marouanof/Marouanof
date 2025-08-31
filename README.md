@@ -31,7 +31,7 @@
   <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase" alt="DB Skills" />
 </p>
 
-#### 🧩 Programming Languages & Frameworks
+#### 🧩 Programming Languages
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,java" alt="Languages & Frameworks" />
 </p>
