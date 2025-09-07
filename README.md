@@ -17,7 +17,7 @@
 
 #### 🌐 Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,bootstrap" alt="Frontend Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,bootstrap" alt="Frontend Skills" />
 </p>
 
 #### 🖥️ Backend
@@ -37,43 +37,17 @@
 
 #### ⚙️ DevOps & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,postman,vscode,linux,figma" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux" alt="Tools" />
 </p>
 
 ---
 
 ### 🚀 What I Like Working On
-- Full-stack web platforms (React / Django, Angular / Laravel, Next.js / Node.js)  
+- Full-stack web platforms (React / Django, Angular / Laravel, React / Node.js)  
 - Backend systems & REST APIs  
 - Clean, intuitive UI/UX with modern frameworks  
 - Designing maintainable & scalable software architectures  
 
 ---
 
-### 📂 Featured Projects
-- 🏠 **Real Estate CRM** – Django + React + MySQL + Railway/Vercel deployment  
-- 📊 **Data Visualization Dashboard** – React + D3.js + REST API  
-- 🤖 **AI Chatbot** – Python + NLP + Flask  
 
----
-
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Marouan&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Marouan&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
-### 📫 Connect with Me
-<p align="left">
-  <a href="https://linkedin.com/in/ton-profil" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="mailto:tonemail@example.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
-  </a>
-  <a href="https://github.com/Marouan" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
-  </a>
-</p>
