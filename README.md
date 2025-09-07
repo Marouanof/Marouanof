@@ -18,27 +18,27 @@
 
 #### 🌐 Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,angular,bootstrap" alt="Frontend Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,bootstrap" alt="Frontend Skills" />
 </p>
 
 #### 🖥️ Backend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=django,flask,php,laravel,symfony,express,nodejs" alt="Backend Skills" />
+  <img src="https://skillicons.dev/icons?i=django,flask,laravel,symfony,express,nodejs" alt="Backend Skills" />
 </p>
 
 #### 🖥 Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase" alt="DB Skills" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase,redis" alt="DB Skills" />
 </p>
 
 #### 🧩 Programming Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java" alt="Languages & Frameworks" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,php" alt="Languages & Frameworks" />
 </p>
 
 #### 🛠️ Tools & Others
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,unity,postman,vscode,linux" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,unity,postman,vscode,,linux" alt="Tools" />
 </p>
 
 ---
