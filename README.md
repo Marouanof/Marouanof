@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Marouan 👋</h1>
+<h1 align="center">Hi, I'm Marouane 👋</h1>
 <p align="center">
   💻 Software Developer | 🌐 Full-Stack Engineer | 🚀 Tech Enthusiast  
 </p>
