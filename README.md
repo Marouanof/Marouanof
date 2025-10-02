@@ -22,9 +22,7 @@
 
 #### 🖥️ Backend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,laravel,symfony,spring" alt="Backend Skills" />
-  <br>
-  ⚡ Java EE (JSP, Servlets, MVC) | Spring Boot
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,laravel,symfony,spring,jee" alt="Backend Skills" />
 </p>
 
 #### 🗄️ Databases
