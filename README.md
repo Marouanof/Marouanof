@@ -22,7 +22,9 @@
 
 #### 🖥️ Backend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,laravel,symfony" alt="Backend Skills" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,laravel,symfony,spring" alt="Backend Skills" />
+  <br>
+  ⚡ Java EE (JSP, Servlets, MVC) | Spring Boot
 </p>
 
 #### 🗄️ Databases
@@ -43,7 +45,7 @@
 ---
 
 ### 🚀 What I Like Working On
-- Full-stack web platforms (React / Django, Angular / Laravel, React / Node.js)  
+- Full-stack web platforms (React / Django, Angular / Laravel, React / Node.js, Java EE / Spring Boot)  
 - Backend systems & REST APIs  
 - Clean, intuitive UI/UX with modern frameworks  
 - Designing maintainable & scalable software architectures  
