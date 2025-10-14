@@ -27,7 +27,7 @@
 
 #### 🗄️ Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase,redis,sqlite" alt="Database Skills" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase,redis,sqlite,oracle" alt="Database Skills" />
 </p>
 
 #### 🧩 Programming Languages
