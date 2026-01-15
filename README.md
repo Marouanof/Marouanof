@@ -11,14 +11,24 @@
 </div>
 
 ---
+## 👤 Auteur & Contacts
+
+<div align="center">
+  <p>Réalisé par <b>FAIK MAROUANE</b></p>
+  <p>
+    <a href="https://github.com/marouanof" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+    </a>
+  </p>
+</div>
+
+---
+
+---
 
 <div align="center">
   <h3>Tech Stack</h3>
-  <p><i>Core Backend & API</i></p>
   <img src="https://skillicons.dev/icons?i=python,fastapi" alt="Python, FastAPI" />
-
-  <p><i>Machine Learning & Data</i></p>
-  <img src="https://skillicons.dev/icons?i=python" alt="scikit-learn, XGBoost, pandas, numpy" />
 </div>
 
 ---
@@ -55,7 +65,7 @@ et expose une API REST propre, pensée pour s’intégrer facilement dans une ar
 
 ```bash
 git clone <URL_DU_REPO>
-cd dmareeb/ai-service
+cd ai-service
 ```
 
 ### 2. Installer les dépendances Python
@@ -70,10 +80,7 @@ pip install -r requirements.txt
 uvicorn main:app --reload --host 0.0.0.0 --port 8000
 ```
 
-L’API sera accessible sur `http://localhost:8000` avec documentation interactive :
-- `http://localhost:8000/docs` (Swagger UI)
-- `http://localhost:8000/redoc`
-
+L’API sera accessible sur `http://localhost:8000` 
 ---
 
 ## 🧠 Architecture & Challenges
@@ -85,32 +92,8 @@ Le service est structuré autour de plusieurs composants clés :
 - `train_pricing.py` et `train_risk_model.py` pour l’entraînement et la mise à jour des modèles.
 - Des artefacts ML sérialisés (`*.joblib`) utilisés en inférence temps réel.
 
-Un défi technique majeur rencontré :
-
-> **[À COMPLÉTER]** Décrire ici un challenge précis (par exemple : gestion de la dérive de données, optimisation des temps de réponse en production, ou synchronisation des features entre Java et Python) et la solution apportée.
 
 Cette section met en avant la capacité à concevoir un service IA **industriel**, connecté à des microservices Java tout en restant maintenable, testable et extensible.
-
----
-
-## 👤 Auteur & Contacts
-
-<div align="center">
-  <p>Réalisé par <b>[TON NOM]</b></p>
-  <p>
-    <a href="https://github.com/" target="_blank" rel="noreferrer">
-      <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
-    </a>
-    &nbsp;
-    <a href="https://www.linkedin.com/" target="_blank" rel="noreferrer">
-      <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-    </a>
-  </p>
-</div>
-
-<div align="center">
-  <sub>Ce document est conçu pour présenter le volet IA du projet comme un véritable module de portfolio professionnel.</sub>
-</div>
 
 ---
 
@@ -129,7 +112,7 @@ L’objectif de ce service est de fournir :
 ## 1. Contexte dans l’architecture globale
 
 Le AI Service est un microservice indépendant, exposé en HTTP (REST) et consommé principalement par :
-- **Booking Service** : pour la tarification des réservations et le scoring de risque.
+- **Booking Service && User Service** : pour la tarification des réservations et le scoring de risque.
 - **Property Service** : pour la recommandation et les analytics.
 
 ```text
@@ -199,7 +182,7 @@ Dossier : [ai-service/](ai-service)
   - Caractéristiques du bien (surface, localisation, capacité, etc.).
   - Retour d’expérience sur l’occupation et le revenu.
 - Modèle :
-  - **XGBoost** ou autre modèle de régression, entraîné via `train_pricing.py`.
+  - **XGBoost**, entraîné via `train_pricing.py`.
 - Sortie :
   - `PriceCalculationResult` avec prix conseillé et éventuellement des indicateurs (min/max, intervalle de confiance, etc.).
 
@@ -263,10 +246,6 @@ python train_risk_model.py
 # Lancement du serveur FastAPI
 uvicorn main:app --reload --host 0.0.0.0 --port 8000
 ```
-
-Le service est alors accessible sur `http://localhost:8000` et sa documentation interactive sur :
-- `http://localhost:8000/docs` (Swagger UI)
-- `http://localhost:8000/redoc`
 
 ---
 
