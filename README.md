@@ -24,7 +24,7 @@
   <img src="https://skillicons.dev/icons?i=python,fastapi" alt="Python, FastAPI" />
 
   <p><i>Machine Learning & Data</i></p>
-  <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch" alt="ML Stack" />
+  <img src="https://skillicons.dev/icons?i=python" alt="scikit-learn, XGBoost, pandas, numpy" />
 
   <p><i>DevOps & Tooling</i></p>
   <img src="https://skillicons.dev/icons?i=docker,linux,git,github" alt="DevOps" />
@@ -289,5 +289,4 @@ Dans ce service, j’ai :
 - Préparé le projet pour une **industrialisation** : gestion des dépendances, variables d’environnement, endpoints documentés, et séparation claire des responsabilités.
 
 Ce service IA complète l’architecture backend globale en apportant une couche de **décision intelligente** (pricing, recommandation, risque) au-dessus des données métiers gérées par les autres microservices.
-
 
