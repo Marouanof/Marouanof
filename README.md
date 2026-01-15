@@ -1,53 +1,293 @@
-<h1 align="center">Hi, I'm Marouane 👋</h1>
-<p align="center">
-  💻 Software Developer | 🌐 Full-Stack Engineer | 🚀 Tech Enthusiast  
-</p>
+<div align="center">
+
+  <h1>AI-Service · Intelligent Pricing & Recommendations</h1>
+
+  <p>
+    Microservice IA pour la plateforme de location immobilière :<br/>
+    <b>recommandations de propriétés</b>, <b>tarification dynamique</b> et <b>scoring de risque</b>,
+    propulsés par Python, FastAPI et des modèles de Machine Learning.
+  </p>
+
+  <p>
+    <img src="https://img.shields.io/badge/version-1.0.0-blue" alt="version" />
+    <img src="https://img.shields.io/badge/status-active-success" alt="status" />
+    <img src="https://img.shields.io/badge/license-MIT-lightgrey" alt="license" />
+  </p>
+
+</div>
 
 ---
 
-### 💼 About Me
-🔹 I build efficient, scalable, and modern web applications  
-🔹 Passionate about full-stack development — from clean UIs to robust APIs  
-🔹 Focused on performance, architecture, and developer experience  
-🔹 Constantly learning and exploring new tools and technologies  
+<div align="center">
+  <h3>Tech Stack</h3>
+  <p><i>Core Backend & API</i></p>
+  <img src="https://skillicons.dev/icons?i=python,fastapi" alt="Python, FastAPI" />
+
+  <p><i>Machine Learning & Data</i></p>
+  <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch" alt="ML Stack" />
+
+  <p><i>DevOps & Tooling</i></p>
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,github" alt="DevOps" />
+</div>
 
 ---
 
-### 🧠 Skills & Technologies
+## 🔍 About the Project
 
-#### 🌐 Frontend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,bootstrap" alt="Frontend Skills" />
-</p>
+AI-Service est un microservice d’**intelligence artificielle** dédié à la plateforme de location immobilière du projet.
+Il fournit des capacités avancées de :
 
-#### 🖥️ Backend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,laravel,symfony,spring" alt="Backend Skills" />
-</p>
+- Recommandation de propriétés en fonction du profil et du budget de l’utilisateur.
+- **Tarification dynamique** pour optimiser le revenu des propriétaires et la conversion côté locataire.
+- **Scoring de risque** pour évaluer la fiabilité des locataires dans le processus de réservation.
+- Analytics et tendances de marché exploitables par les autres microservices.
 
-#### 🗄️ Databases
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase,redis,sqlite,oracledb,h2" alt="Database Skills" />
-</p>
-
-#### 🧩 Programming Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,php,c,cpp" alt="Languages" />
-</p>
-
-#### ⚙️ DevOps & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux" alt="Tools" />
-</p>
+Il est développé en **Python/FastAPI**, consomme et enrichit les données des microservices Java,
+et expose une API REST propre, pensée pour s’intégrer facilement dans une architecture microservices existante.
 
 ---
 
-### 🚀 What I Like Working On
-- Full-stack web platforms (React / Django, Angular / Laravel, React / Node.js, Java EE / Spring Boot)  
-- Backend systems & REST APIs  
-- Clean, intuitive UI/UX with modern frameworks  
-- Designing maintainable & scalable software architectures  
+## ✨ Key Features
+
+- 🔮 **Property Recommendations** – recommandations basées sur le budget, la destination et les préférences utilisateur.
+- 💸 **Dynamic Pricing Engine** – suggestion de prix optimisés selon la saisonnalité, le jour, et les caractéristiques du bien.
+- 🛡️ **Tenant Risk Scoring** – score de risque utilisateur pour sécuriser les réservations et limiter les incidents.
+- 📊 **Market Analytics** – tendances, clustering et agrégations pour comprendre le comportement du marché.
+- ⚙️ **API REST FastAPI** – endpoints documentés (Swagger / Redoc) intégrables par les services Java.
+- 📦 **Modèles ML versionnés** – modèles entraînés et sérialisés (joblib) pour une mise en production simple.
 
 ---
+
+## 🚀 Quick Start
+
+### 1. Cloner le dépôt & se placer dans le service IA
+
+```bash
+git clone <URL_DU_REPO>
+cd dmareeb/ai-service
+```
+
+### 2. Installer les dépendances Python
+
+```bash
+pip install -r requirements.txt
+```
+
+### 3. Lancer le serveur FastAPI
+
+```bash
+uvicorn main:app --reload --host 0.0.0.0 --port 8000
+```
+
+L’API sera accessible sur `http://localhost:8000` avec documentation interactive :
+- `http://localhost:8000/docs` (Swagger UI)
+- `http://localhost:8000/redoc`
+
+---
+
+## 🧠 Architecture & Challenges
+
+Le service est structuré autour de plusieurs composants clés :
+
+- `main.py` pour la définition des endpoints FastAPI et le chargement des modèles.
+- `analytics_engine.py` pour les traitements analytiques avancés (trends, clustering…).
+- `train_pricing.py` et `train_risk_model.py` pour l’entraînement et la mise à jour des modèles.
+- Des artefacts ML sérialisés (`*.joblib`) utilisés en inférence temps réel.
+
+Un défi technique majeur rencontré :
+
+> **[À COMPLÉTER]** Décrire ici un challenge précis (par exemple : gestion de la dérive de données, optimisation des temps de réponse en production, ou synchronisation des features entre Java et Python) et la solution apportée.
+
+Cette section met en avant la capacité à concevoir un service IA **industriel**, connecté à des microservices Java tout en restant maintenable, testable et extensible.
+
+---
+
+## 👤 Auteur & Contacts
+
+<div align="center">
+  <p>Réalisé par <b>[TON NOM]</b></p>
+  <p>
+    <a href="https://github.com/" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+    </a>
+    &nbsp;
+    <a href="https://www.linkedin.com/" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+    </a>
+  </p>
+</div>
+
+<div align="center">
+  <sub>Ce document est conçu pour présenter le volet IA du projet comme un véritable module de portfolio professionnel.</sub>
+</div>
+
+---
+
+# AI Service – Architecture & Réalisations
+
+Ce document présente en détail le **service d’IA** de la plateforme, développé en **Python / FastAPI** et intégré au reste de l’architecture microservices Java.
+
+L’objectif de ce service est de fournir :
+- Des **recommandations de propriétés** personnalisées.
+- Une **tarification dynamique** des logements (pricing).
+- Un **scoring de risque utilisateur** (tenant risk).
+- Des **analytics de marché** (tendances, clustering, prévisions).
+
+---
+
+## 1. Contexte dans l’architecture globale
+
+Le AI Service est un microservice indépendant, exposé en HTTP (REST) et consommé principalement par :
+- **Booking Service** : pour la tarification des réservations et le scoring de risque.
+- **Property Service** : pour la recommandation et les analytics.
+
+```text
+Java Microservices (Spring Boot)
+   │
+   │  HTTP / JSON
+   ▼
+AI Service (FastAPI, Python)
+   ├─ Modèles ML (pricing)
+   ├─ Modèles ML (risque utilisateur)
+   └─ Recommandations & analytics marché
+```
+
+Le service est **découplé** des autres services (technologie différente, cycle de vie propre) mais partage des contrats d’échange (DTO JSON) bien définis.
+
+---
+
+## 2. Structure du projet AI
+
+Dossier : [ai-service/](ai-service)
+
+- `main.py` :
+  - Application **FastAPI**.
+  - Définition des endpoints principaux (recommandations, tarification, risque, analytics).
+  - Chargement des modèles ML (pricing, risque, recommandation).
+
+- `analytics_engine.py` :
+  - Fonctions d’**analytics avancés** (trends, clustering, prévisions, agrégations sur l’historique).
+  - Utilisation de pandas / numpy pour manipuler les données.
+
+- `train_pricing.py` :
+  - Script d’**entraînement du modèle de tarification** (XGBoost ou modèle régressif).
+  - Génération du fichier `pricing_model.joblib`.
+
+- `train_risk_model.py` :
+  - Script d’**entraînement du modèle de risque utilisateur**.
+  - Génération du fichier `risk_model.joblib` et `models/tenant_risk_model.joblib`.
+
+- `models/` :
+  - `recommender_data.joblib` : données/features pré-calculées pour la recommandation.
+  - `tenant_risk_model.joblib` : modèle ML pour le risque utilisateur.
+
+- Fichiers de modèles racine :
+  - `pricing_model.joblib` : modèle d’estimation de prix.
+  - `risk_model.joblib` : modèle de risque (version / alias).
+
+- `requirements.txt` :
+  - Dépendances Python (FastAPI, Uvicorn, scikit-learn, XGBoost, pandas, numpy, python-dotenv, etc.).
+
+---
+
+## 3. Fonctionnalités IA implémentées
+
+### 3.1. Recommandation de propriétés
+- Entrées typiques :
+  - Budget utilisateur, localisation, caractéristiques de la propriété (taille, type, etc.).
+- Traitement :
+  - Utilisation de **représentations vectorielles** des propriétés et/ou de l’historique.
+  - Calcul de similarités (ex : **cosine similarity**) et éventuellement **clustering** par zone / catégorie.
+- Sortie :
+  - Liste de propriétés recommandées avec un score de pertinence.
+
+### 3.2. Tarification dynamique (Pricing)
+- Objectif : suggérer un **prix optimal** pour une propriété donnée à une date donnée.
+- Features utilisées (exemples) :
+  - Saison / mois de l’année, jour de la semaine (week-end vs semaine).
+  - Caractéristiques du bien (surface, localisation, capacité, etc.).
+  - Retour d’expérience sur l’occupation et le revenu.
+- Modèle :
+  - **XGBoost** ou autre modèle de régression, entraîné via `train_pricing.py`.
+- Sortie :
+  - `PriceCalculationResult` avec prix conseillé et éventuellement des indicateurs (min/max, intervalle de confiance, etc.).
+
+### 3.3. Scoring de risque utilisateur
+- Objectif : renvoyer un **score de risque** pour un locataire.
+- Features possibles :
+  - Nombre d’annulations, d’incidents passés, historique d’avis.
+  - Statut KYC, wallet vérifié ou non, ancienneté du compte.
+- Modèle :
+  - Classifieur ou régression de probabilité, entraîné via `train_risk_model.py`.
+- Sortie :
+  - Score numérique (0–100) avec éventuellement une catégorie (LOW, MEDIUM, HIGH).
+
+### 3.4. Analytics de marché
+- Clustering de villes / zones selon les prix.
+- Agrégations et tendances des prix (moyennes, médianes, saisonnalité).
+- Possibilité de produire des séries temporelles pour des dashboards.
+
+---
+
+## 4. Endpoints principaux
+
+Les routes exactes peuvent évoluer, mais la structure principale est la suivante (définie dans `main.py`) :
+
+- `GET /api/v1/recommendations` :
+  - Paramètres : budget, localisation, etc.
+  - Réponse : liste de propriétés recommandées.
+
+- `GET /api/v1/pricing/suggest` :
+  - Paramètres : ID propriété, date, éventuellement contexte (occupations passées).
+  - Réponse : prix conseillé + informations complémentaires.
+
+- `GET /api/v1/risk/score/{user_id}` :
+  - Paramètres : `user_id`.
+  - Réponse : score de risque et niveau.
+
+- `GET /api/v1/analytics/trends` :
+  - Paramètres : filtres sur zone, période, etc.
+  - Réponse : agrégations et tendances de marché.
+
+Les microservices Java consomment ces endpoints via des **clients HTTP** (OpenFeign ou RestTemplate) et mappent les réponses vers leurs **DTO**.
+
+---
+
+## 5. Lancement du AI Service
+
+### 5.1. Prérequis
+- **Python 3.10+**
+- `pip` ou `pipenv`
+
+### 5.2. Installation et exécution
+
+```bash
+cd ai-service
+pip install -r requirements.txt
+
+# Optionnel : réentraîner les modèles
+python train_pricing.py
+python train_risk_model.py
+
+# Lancement du serveur FastAPI
+uvicorn main:app --reload --host 0.0.0.0 --port 8000
+```
+
+Le service est alors accessible sur `http://localhost:8000` et sa documentation interactive sur :
+- `http://localhost:8000/docs` (Swagger UI)
+- `http://localhost:8000/redoc`
+
+---
+
+## 6. Rôle et compétences démontrées
+
+Dans ce service, j’ai :
+- Conçu une **API IA spécialisée** pour un environnement de microservices (contrats clairs, DTO adaptés aux services Java).
+- Intégré des **modèles de Machine Learning** dans un service web (chargement, pré/post-traitement, versionnement).
+- Structuré les **scripts d’entraînement** (`train_pricing.py`, `train_risk_model.py`) pour séparer entraînement et inférence.
+- Assuré l’**interopérabilité** entre le monde Java/Spring et Python/FastAPI (formats JSON, schémas de données, gestion des erreurs).
+- Préparé le projet pour une **industrialisation** : gestion des dépendances, variables d’environnement, endpoints documentés, et séparation claire des responsabilités.
+
+Ce service IA complète l’architecture backend globale en apportant une couche de **décision intelligente** (pricing, recommandation, risque) au-dessus des données métiers gérées par les autres microservices.
 
 
