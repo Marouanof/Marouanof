@@ -25,9 +25,6 @@
 
   <p><i>Machine Learning & Data</i></p>
   <img src="https://skillicons.dev/icons?i=python" alt="scikit-learn, XGBoost, pandas, numpy" />
-
-  <p><i>DevOps & Tooling</i></p>
-  <img src="https://skillicons.dev/icons?i=docker,linux,git,github" alt="DevOps" />
 </div>
 
 ---
