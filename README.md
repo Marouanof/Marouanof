@@ -1,73 +1,84 @@
 # Hi there, I'm Faik Marouane 👋 
-### Software Engineering Student | System Architect & AI Researcher
+### Software Engineering Student
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=24&pause=1000&color=42A5F5&width=600&lines=Fullstack+Architect+(Spring/React);Machine+Learning+Researcher;Web3+%26+Smart+Contracts+Integrator;Distributed+Systems+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=22&pause=1000&color=42A5F5&width=600&lines=Fullstack+Developer;Machine+Learning+Explorer;Blockchain+%26+Web3+Integrator;Engineering+Student" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🚀 Engineering Persona
-Étudiant en ingénierie logicielle (Semestre 3), je ne me contente pas de coder : je conçois des systèmes. Mon approche combine la rigueur du **Backend robuste** (Spring Boot, RabbitMQ), l'intelligence des **modèles prédictifs** (ML/RL) et la transparence de la **Blockchain**.
+### 🚀 Background
+Étudiant en ingénierie logicielle (Semestre 3). J'ai acquis durant mon cursus une base technique large couvrant le développement web, l'intelligence artificielle et les architectures de données.
 
 ---
 
-### 🏗️ Targeted Expertise
+### 💻 Technologies & Stack (Academic Path)
 
-#### 🧩 System Backend & Distributed Architecture
-*Expertise sur la gestion des flux de données et la scalabilité.*
+**Development & Frameworks**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,php,symfony,laravel,nodejs,express,fastapi,rabbitmq,docker" />
+    <img src="https://skillicons.dev/icons?i=java,spring,php,symfony,laravel,nodejs,express,python,fastapi,django,cs,cpp,c" />
+  </a>
+</p>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react" />
   </a>
 </p>
 
-#### 🧠 Data Intelligence & Graph Theory
-*Maîtrise de la chaîne de valeur de la donnée, du prétraitement à l'apprentissage par renforcement.*
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,sklearn,tensorflow,postgres,mongodb,redis,cassandra" />
-  </a>
-</p>
-> **Highlight:** Utilisation de **ChromaDB** pour le stockage vectoriel et de **Neo4j** pour l'analyse de réseaux complexes.
+**Data Science & Machine Learning**
+- **Algorithms:** Regression, Classification, Unsupervised Learning, Reinforcement Learning.
+- **Ensemble Methods:** Bagging, Stacking, Boosting.
+- **Concepts:** Théorie des Graphes.
 
-#### 🌐 Web Interaction & Blockchain Bridge
-*Interface utilisateur moderne et intégration de protocoles décentralisés.*
+**Databases & Middleware**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,angular,react,js,solidity" />
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,cassandra,rabbitmq" />
   </a>
+  <br>
+  <em>Aussi étudié: Oracle DB, Firebase, Neo4j, ChromaDB, MQTT, Node-RED.</em>
 </p>
-> **Bridge:** Communication inter-chaînes via **Web3j** et **Ethers.js**.
+
+**Blockchain & Web3**
+- **Integration:** Web3j (Spring Boot), Ether.js, MetaMask.
+
+**Tools & Infrastructure**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,git,github,linux,windows,idea,vscode" />
+  </a>
+  <br>
+  <em>Réseau: Cisco Packet Tracer | Méthodologie: Jira, Scrum.</em>
+</p>
 
 ---
 
-## 📊 Engineering Metrics
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Marouanof&theme=dracula&bg_color=00000000&color=42A5F5&line=42A5F5&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Marouanof&theme=dracula&bg_color=00000000&color=42A5F5&line=42A5F5&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Marouane Faik's Contribution Graph" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Marouanof&label=Profile%20Views&color=42A5F5&style=flat-square" alt="Views" />
-  <img src="https://img.shields.io/github/followers/Marouanof?label=Network&style=flat-square&color=42A5F5" alt="Followers" />
-  <img src="https://img.shields.io/badge/Academic-Engineering-42A5F5?style=flat-square" alt="Status" />
+  <img src="https://img.shields.io/github/followers/Marouanof?label=Followers&style=flat-square&color=42A5F5" alt="Followers" />
 </p>
 
 ---
 
-### 🛠️ Current Research & Development
-- ⛓️ **Web3 Integration:** Optimisation des appels JSON-RPC pour les Smart Contracts via Spring Boot.
-- 🤖 **Deep Learning:** Exploration des algorithmes de *Boosting* (XGBoost/LightGBM) sur des datasets financiers.
-- 📡 **IoT & Messaging:** Mise en place de passerelles MQTT vers RabbitMQ pour des systèmes temps réel.
+### 🔭 Current Focus
+- Développement Web Fullstack (JEE/Spring & Modern JS).
+- Approfondissement du Machine Learning et de la Blockchain.
+- Administration système sous Linux (Scripting & VirtualBox).
 
 ---
 
 ### 📫 Connect with me
 <p align="left">
-  <a href="https://linkedin.com/in/votre-profil"><img src="https://skillicons.dev/icons?i=linkedin" height="45" /></a>
-  <a href="mailto:votre-email@mail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45" /></a>
+  <a href="https://linkedin.com/in/votre-profil"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
+  <a href="mailto:votre-email@mail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
 </p>
 
 ---
-*“Simplicity is the soul of efficiency. I build for scale, I code for impact.”*
+*“Learning, coding, and building systems.”*
