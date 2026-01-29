@@ -65,13 +65,15 @@
 ---
 
 ### 📊 GitHub Activity
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Marouanof&show_icons=true&theme=transparent&title_color=42A5F5&icon_color=42A5F5&text_color=ffffff&border_color=42A5F5&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marouanof&layout=compact&theme=transparent&title_color=42A5F5&icon_color=42A5F5&text_color=ffffff&border_color=42A5F5" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Marouanof&show_icons=true&theme=dark&title_color=42A5F5&icon_color=42A5F5&text_color=ffffff&count_private=true" alt="Marouanof's GitHub stats" width="48%" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marouanof&layout=compact&theme=dark&title_color=42A5F5&icon_color=42A5F5&text_color=ffffff" alt="Top Languages" width="45%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Marouanof&theme=transparent&currStreakNum=42A5F5&fire=42A5F5&sideLabels=ffffff&stroke=42A5F5" width="95%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Marouanof&theme=dark&currStreakNum=42A5F5&fire=42A5F5&sideLabels=ffffff" alt="GitHub Streak" width="95%" />
 </p>
 
 ---
