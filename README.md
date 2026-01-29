@@ -67,14 +67,24 @@
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Marouanof&show_icons=true&theme=tokyonight&count_private=true" width="48%" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=Marouanof&layout=compact&theme=tokyonight" width="45%" alt="Top Languages" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Marouanof&theme=dracula&no-bg=true&column=4" width="100%" alt="GitHub Trophies" />
+  </a>
 </p>
 
+<br />
+
 <p align="center">
-  <img src="https://metrics.lecoq.io/Marouanof?base=header,repositories,metadata&config.timezone=Africa/Casablanca" width="95%" alt="General Metrics" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Marouanof&theme=dracula&bg_color=00000000&color=42A5F5&line=42A5F5&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
 </p>
+
+---
+
+### 🛠️ Working on right now
+*Since the stats servers are currently unstable, here is my manual focus:*
+- 🔭 **Blockchain:** Deep diving into Ether.js & Web3j integration.
+- 🧠 **AI:** Implementing Reinforcement Learning algorithms for optimization.
+- 🏗️ **Backend:** Scaling Spring Boot applications with RabbitMQ.
 
 ---
 
