@@ -2,64 +2,85 @@
 ### Software Engineering Student | Fullstack Developer | AI & Blockchain Enthusiast
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Fullstack+Development+(Java-PHP-JS);Machine+Learning+%26+Data+Science;Blockchain+%26+Web3+Integration;Cloud+%26+DevOps+Basics" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=24&pause=1000&color=42A5F5&width=500&lines=Fullstack+Engineer;Machine+Learning+Expert;Web3+%26+Blockchain+Dev;Software+Architect" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🚀 About Me
-Je suis un étudiant en ingénierie logicielle avec un profil hybride, combinant le développement d'applications robustes, l'intelligence artificielle et les technologies décentralisées. Mon approche repose sur la compréhension profonde des algorithmes et des architectures distribuées.
-
-* 🎓 **Éducation :** 3ème semestre en Ingénierie Logicielle (Background dense en mathématiques et algorithmie).
-* 🛠️ **Focus actuel :** Intégration de modèles de Machine Learning via des APIs performantes (FastAPI/Spring).
-* ☁️ **Environnement :** Windows (Daily driver) & Linux (Scripting & Administration).
+### 🚀 About Me
+Étudiant en ingénierie logicielle (Semestre 3). Mon expertise s'étend du développement d'architectures distribuées (Spring/RabbitMQ) à l'implémentation de modèles d'IA complexes et de solutions Blockchain.
 
 ---
 
-## 🛠️ Technical Stack
+### 💻 Technologies & Stack
 
-### 💻 Development & Frameworks
-* **Java:** JEE, Spring Boot, Spring Security, Web3j
-* **JavaScript/TS:** Angular, React, Node.js, Express
-* **PHP:** Symfony, Laravel
-* **Python:** FastAPI, Django, Flask
-* **Desktop/Other:** C, C++, C#, .NET
-
-### 🧠 Data Science & AI
-* **Supervised:** Regression, Classification (Bagging, Stacking, Boosting)
-* **Unsupervised:** Clustering, PCA
-* **Advanced:** Reinforcement Learning, Théorie des Graphes
-* **Vector DB:** ChromaDB (pour le RAG / IA Générative)
-
-### 🗄️ Database & Middleware
-* **SQL:** PostgreSQL, MySQL, Oracle DB
-* **NoSQL:** MongoDB, Redis, Cassandra, Neo4j (Graph)
-* **Messaging:** RabbitMQ, MQTT
-
-### ⛓️ Web3 & Blockchain
-* **Tools:** MetaMask, Ether.js, Web3j
-* **Smart Contracts:** Interaction avec la blockchain Ethereum.
-
-### ⚙️ DevOps & Tools
-* **Containerization:** Docker
-* **Network:** Cisco Packet Tracer
-* **Project Management:** Jira, Scrum
-* **Version Control:** Git, GitHub
-* **IDEs:** IntelliJ (Java), VS Code (Python, Web, PHP)
-
----
-
-## 📊 GitHub Stats
+**Frontend & Backend**
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=marouanof&show_icons=true&theme=radical" alt="Stats" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marouanof&layout=compact&theme=radical" alt="Top Langs" height="150" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,php,symfony,laravel,nodejs,express,python,fastapi,django,cs,cpp,c" />
+  </a>
+</p>
+
+**Web Frameworks & Languages**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,jquery" />
+  </a>
+</p>
+
+**Data Science & AI**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,sklearn,tensorflow,pytorch" />
+  </a>
+  <br>
+  <em>Focus: Regression, Classification (Boosting/Stacking), Reinforcement Learning, ChromaDB.</em>
+</p>
+
+**Databases & Middleware**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,cassandra,rabbitmq" />
+  </a>
+  <br>
+  <em>Expertise additionnelle: Neo4j (Graph), Oracle DB, MQTT.</em>
+</p>
+
+**Blockchain & Web3**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=solidity,ethers" />
+  </a>
+  <br>
+  <em>Integration: Web3j (Spring Boot) & Metamask.</em>
+</p>
+
+**Tools & Environment**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,git,github,linux,windows,idea,vscode" />
+  </a>
 </p>
 
 ---
 
-## 📫 Connect with me
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/ton-profi)
-[<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=react&logoColor=white" />](https://ton-portfolio.com)
+### 📊 GitHub Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Marouanof&show_icons=true&theme=transparent&title_color=42A5F5&icon_color=42A5F5&text_color=ffffff&border_color=42A5F5&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marouanof&layout=compact&theme=transparent&title_color=42A5F5&icon_color=42A5F5&text_color=ffffff&border_color=42A5F5" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Marouanof&theme=transparent&currStreakNum=42A5F5&fire=42A5F5&sideLabels=ffffff&stroke=42A5F5" width="95%" />
+</p>
 
 ---
-*“In code we trust, in algorithms we grow.”*
+
+### 📫 Connect with me
+<p align="left">
+  <a href="https://linkedin.com/in/votre-profil"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
+  <a href="mailto:votre-email@mail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
+</p>
+
+---
+*“Building scalable systems and intelligent algorithms.”*
