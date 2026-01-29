@@ -1,44 +1,65 @@
-<h1 align="center">Hi, I'm Marouane 👋</h1>
-<p align="center">
-  💻 Software Developer | 🌐 Full-Stack Engineer | 🚀 Tech Enthusiast  
+# Hi there, I'm Faik Marouane 👋 
+### Software Engineering Student | Fullstack Developer | AI & Blockchain Enthusiast
+
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Fullstack+Development+(Java-PHP-JS);Machine+Learning+%26+Data+Science;Blockchain+%26+Web3+Integration;Cloud+%26+DevOps+Basics" alt="Typing SVG" />
 </p>
 
 ---
 
-### 💼 About Me
-🔹 I build efficient, scalable, and modern web applications  
-🔹 Passionate about full-stack development — from clean UIs to robust APIs  
-🔹 Focused on performance, architecture, and developer experience  
-🔹 Constantly learning and exploring new tools and technologies  
+## 🚀 About Me
+Je suis un étudiant en ingénierie logicielle avec un profil hybride, combinant le développement d'applications robustes, l'intelligence artificielle et les technologies décentralisées. Mon approche repose sur la compréhension profonde des algorithmes et des architectures distribuées.
+
+* 🎓 **Éducation :** 3ème semestre en Ingénierie Logicielle (Background dense en mathématiques et algorithmie).
+* 🛠️ **Focus actuel :** Intégration de modèles de Machine Learning via des APIs performantes (FastAPI/Spring).
+* ☁️ **Environnement :** Windows (Daily driver) & Linux (Scripting & Administration).
 
 ---
 
-### 🧠 Skills & Technologies
+## 🛠️ Technical Stack
 
-#### 🌐 Frontend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,bootstrap" alt="Frontend Skills" />
-</p>
+### 💻 Development & Frameworks
+* **Java:** JEE, Spring Boot, Spring Security, Web3j
+* **JavaScript/TS:** Angular, React, Node.js, Express
+* **PHP:** Symfony, Laravel
+* **Python:** FastAPI, Django, Flask
+* **Desktop/Other:** C, C++, C#, .NET
 
-#### 🖥️ Backend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,laravel,symfony,spring" alt="Backend Skills" />
-</p>
+### 🧠 Data Science & AI
+* **Supervised:** Regression, Classification (Bagging, Stacking, Boosting)
+* **Unsupervised:** Clustering, PCA
+* **Advanced:** Reinforcement Learning, Théorie des Graphes
+* **Vector DB:** ChromaDB (pour le RAG / IA Générative)
 
-#### 🗄️ Databases
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase,redis,sqlite,oracledb,h2" alt="Database Skills" />
-</p>
+### 🗄️ Database & Middleware
+* **SQL:** PostgreSQL, MySQL, Oracle DB
+* **NoSQL:** MongoDB, Redis, Cassandra, Neo4j (Graph)
+* **Messaging:** RabbitMQ, MQTT
 
-#### 🧩 Programming Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,php,c,cpp" alt="Languages" />
-</p>
+### ⛓️ Web3 & Blockchain
+* **Tools:** MetaMask, Ether.js, Web3j
+* **Smart Contracts:** Interaction avec la blockchain Ethereum.
 
-#### ⚙️ DevOps & Tools
+### ⚙️ DevOps & Tools
+* **Containerization:** Docker
+* **Network:** Cisco Packet Tracer
+* **Project Management:** Jira, Scrum
+* **Version Control:** Git, GitHub
+* **IDEs:** IntelliJ (Java), VS Code (Python, Web, PHP)
+
+---
+
+## 📊 GitHub Stats
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux" alt="Tools" />
+<img src="https://github-readme-stats.vercel.app/api?username=[TON_PSEUDO]&show_icons=true&theme=radical" alt="Stats" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[TON_PSEUDO]&layout=compact&theme=radical" alt="Top Langs" height="150" />
 </p>
 
 ---
 
+## 📫 Connect with me
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/ton-profil)
+[<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=react&logoColor=white" />](https://ton-portfolio.com)
+
+---
+*“In code we trust, in algorithms we grow.”*
