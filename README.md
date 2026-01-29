@@ -67,16 +67,16 @@
 ## 📊 GitHub Activity
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Marouanof&theme=dracula&no-bg=true&column=4" width="100%" alt="GitHub Trophies" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Marouanof&theme=dracula&bg_color=00000000&color=42A5F5&line=42A5F5&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Marouane Faik's Contribution Graph" />
 </p>
-
-<br />
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Marouanof&theme=dracula&bg_color=00000000&color=42A5F5&line=42A5F5&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
+  <img src="https://komarev.com/ghpvc/?username=Marouanof&label=Profile%20Views&color=42A5F5&style=flat" alt="Views" />
+  <img src="https://img.shields.io/github/followers/Marouanof?label=Followers&style=flat&color=42A5F5" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Marouanof?label=Total%20Stars&style=flat&color=42A5F5" alt="Stars" />
 </p>
+
+---
 
 ---
 
