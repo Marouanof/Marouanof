@@ -88,8 +88,8 @@ I am a Software Engineering student (3rd Semester) with a broad technical founda
 
 ### 📫 Connect with me
 <p align="left">
-  <a href="https://linkedin.com/in/your-profile"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
+  <a href="https://linkedin.com/in/marouane-faik"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
+  <a href="mailto:merouanefaik@example.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
 </p>
 
 ---
