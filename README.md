@@ -1,98 +1,73 @@
 # Hi there, I'm Faik Marouane 👋 
-### Software Engineering Student | Fullstack Developer | AI & Blockchain Enthusiast
+### Software Engineering Student | System Architect & AI Researcher
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=24&pause=1000&color=42A5F5&width=500&lines=Fullstack+Engineer;Machine+Learning+Expert;Web3+%26+Blockchain+Dev;Software+Architect" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=24&pause=1000&color=42A5F5&width=600&lines=Fullstack+Architect+(Spring/React);Machine+Learning+Researcher;Web3+%26+Smart+Contracts+Integrator;Distributed+Systems+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🚀 About Me
-Étudiant en ingénierie logicielle (Semestre 3). Mon expertise s'étend du développement d'architectures distribuées (Spring/RabbitMQ) à l'implémentation de modèles d'IA complexes et de solutions Blockchain.
+### 🚀 Engineering Persona
+Étudiant en ingénierie logicielle (Semestre 3), je ne me contente pas de coder : je conçois des systèmes. Mon approche combine la rigueur du **Backend robuste** (Spring Boot, RabbitMQ), l'intelligence des **modèles prédictifs** (ML/RL) et la transparence de la **Blockchain**.
 
 ---
 
-### 💻 Technologies & Stack
+### 🏗️ Targeted Expertise
 
-**Frontend & Backend**
+#### 🧩 System Backend & Distributed Architecture
+*Expertise sur la gestion des flux de données et la scalabilité.*
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,php,symfony,laravel,nodejs,express,python,fastapi,django,cs,cpp,c" />
+    <img src="https://skillicons.dev/icons?i=java,spring,php,symfony,laravel,nodejs,express,fastapi,rabbitmq,docker" />
   </a>
 </p>
 
-**Web Frameworks & Languages**
+#### 🧠 Data Intelligence & Graph Theory
+*Maîtrise de la chaîne de valeur de la donnée, du prétraitement à l'apprentissage par renforcement.*
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,jquery" />
+    <img src="https://skillicons.dev/icons?i=py,sklearn,tensorflow,postgres,mongodb,redis,cassandra" />
   </a>
 </p>
+> **Highlight:** Utilisation de **ChromaDB** pour le stockage vectoriel et de **Neo4j** pour l'analyse de réseaux complexes.
 
-**Data Science & AI**
+#### 🌐 Web Interaction & Blockchain Bridge
+*Interface utilisateur moderne et intégration de protocoles décentralisés.*
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,sklearn,tensorflow,pytorch" />
-  </a>
-  <br>
-  <em>Focus: Regression, Classification (Boosting/Stacking), Reinforcement Learning, ChromaDB.</em>
-</p>
-
-**Databases & Middleware**
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,cassandra,rabbitmq" />
-  </a>
-  <br>
-  <em>Expertise additionnelle: Neo4j (Graph), Oracle DB, MQTT.</em>
-</p>
-
-**Blockchain & Web3**
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=solidity,ethers" />
-  </a>
-  <br>
-  <em>Integration: Web3j (Spring Boot) & Metamask.</em>
-</p>
-
-**Tools & Environment**
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,git,github,linux,windows,idea,vscode" />
+    <img src="https://skillicons.dev/icons?i=ts,angular,react,js,solidity" />
   </a>
 </p>
+> **Bridge:** Communication inter-chaînes via **Web3j** et **Ethers.js**.
 
 ---
 
-## 📊 GitHub Activity
+## 📊 Engineering Metrics
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Marouanof&theme=dracula&bg_color=00000000&color=42A5F5&line=42A5F5&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Marouane Faik's Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Marouanof&theme=dracula&bg_color=00000000&color=42A5F5&line=42A5F5&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Marouanof&label=Profile%20Views&color=42A5F5&style=flat" alt="Views" />
-  <img src="https://img.shields.io/github/followers/Marouanof?label=Followers&style=flat&color=42A5F5" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/Marouanof?label=Total%20Stars&style=flat&color=42A5F5" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=Marouanof&label=Profile%20Views&color=42A5F5&style=flat-square" alt="Views" />
+  <img src="https://img.shields.io/github/followers/Marouanof?label=Network&style=flat-square&color=42A5F5" alt="Followers" />
+  <img src="https://img.shields.io/badge/Academic-Engineering-42A5F5?style=flat-square" alt="Status" />
 </p>
 
 ---
 
----
-
-### 🛠️ Working on right now
-*Since the stats servers are currently unstable, here is my manual focus:*
-- 🔭 **Blockchain:** Deep diving into Ether.js & Web3j integration.
-- 🧠 **AI:** Implementing Reinforcement Learning algorithms for optimization.
-- 🏗️ **Backend:** Scaling Spring Boot applications with RabbitMQ.
+### 🛠️ Current Research & Development
+- ⛓️ **Web3 Integration:** Optimisation des appels JSON-RPC pour les Smart Contracts via Spring Boot.
+- 🤖 **Deep Learning:** Exploration des algorithmes de *Boosting* (XGBoost/LightGBM) sur des datasets financiers.
+- 📡 **IoT & Messaging:** Mise en place de passerelles MQTT vers RabbitMQ pour des systèmes temps réel.
 
 ---
 
 ### 📫 Connect with me
 <p align="left">
-  <a href="https://linkedin.com/in/votre-profil"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
-  <a href="mailto:votre-email@mail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
+  <a href="https://linkedin.com/in/votre-profil"><img src="https://skillicons.dev/icons?i=linkedin" height="45" /></a>
+  <a href="mailto:votre-email@mail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45" /></a>
 </p>
 
 ---
-*“Building scalable systems and intelligent algorithms.”*
+*“Simplicity is the soul of efficiency. I build for scale, I code for impact.”*
