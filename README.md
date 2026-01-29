@@ -51,14 +51,14 @@ Je suis un étudiant en ingénierie logicielle avec un profil hybride, combinant
 
 ## 📊 GitHub Stats
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=[TON_PSEUDO]&show_icons=true&theme=radical" alt="Stats" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[TON_PSEUDO]&layout=compact&theme=radical" alt="Top Langs" height="150" />
+<img src="https://github-readme-stats.vercel.app/api?username=marouanof&show_icons=true&theme=radical" alt="Stats" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marouanof&layout=compact&theme=radical" alt="Top Langs" height="150" />
 </p>
 
 ---
 
 ## 📫 Connect with me
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/ton-profil)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/ton-profi)
 [<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=react&logoColor=white" />](https://ton-portfolio.com)
 
 ---
