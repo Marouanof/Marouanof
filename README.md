@@ -8,7 +8,7 @@
 ---
 
 ### 🚀 About Me
-I am a Software Engineering student (3rd Semester) with a broad technical foundation. I focus on building scalable web applications, exploring Machine Learning algorithms, and integrating Blockchain technologies.
+I am a Software Engineering student (2nd Year) with a broad technical foundation. I focus on building scalable web applications, exploring Machine Learning algorithms, and integrating Blockchain technologies.
 
 ---
 
