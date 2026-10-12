@@ -64,26 +64,16 @@
 
 ### 🔥 Featured Projects — github.com/Marouanof
 
-- **[Nestora](https://github.com/Marouanof/Nestora)** — Rental platform, Spring Boot microservices (Gateway JWT, User/Property/Booking/Notification, PostgreSQL, RabbitMQ, Stripe) + Python/FastAPI AI-service (reco, pricing XGBoost, risk scoring).
-- **[nestora-ops](https://github.com/Marouanof/nestora-ops)** — DevOps chain for Nestora: Docker, green CI/CD (tests, builds, Trivy, GHCR), K8s Kustomize, Terraform OCI, Prometheus/Grafana, S3Mock.
-- **[slm-se-assistant](https://github.com/Marouanof/slm-se-assistant)** — SE assistant FastAPI + React TS, 6 LangGraph agents, read-only MCP server.
-- **[Gestion-Oracle-avec-IA](https://github.com/Marouanof/Gestion-Oracle-avec-IA)** — Smart Oracle admin (Streamlit): security audit, query tuning, anomaly detection, RPO/RTO + RMAN, RAG chatbot (ChromaDB, Groq).
-- **[CampusEventsIA](https://github.com/Marouanof/CampusEventsIA)** — Expo/React Native campus app + 6-mode AI assistant.
-- **[smart-ecommerce-intelligence](https://github.com/Marouanof/smart-ecommerce-intelligence)** — E-commerce data-mining pipeline + Streamlit dashboard + Docker.
-
-<p align="center">
-  <a href="https://github.com/Marouanof/Nestora"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Marouanof&repo=Nestora&theme=dracula&hide_border=true" width="49%" alt="Nestora" /></a>
-  <a href="https://github.com/Marouanof/nestora-ops"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Marouanof&repo=nestora-ops&theme=dracula&hide_border=true" width="49%" alt="nestora-ops" /></a>
-</p>
+- **[Nestora](https://github.com/Marouanof/Nestora)** <img src="https://img.shields.io/github/stars/Marouanof/Nestora?style=flat-square" alt="stars" /> — Rental platform, Spring Boot microservices (Gateway JWT, User/Property/Booking/Notification, PostgreSQL, RabbitMQ, Stripe) + Python/FastAPI AI-service (reco, pricing XGBoost, risk scoring).
+- **[nestora-ops](https://github.com/Marouanof/nestora-ops)** <img src="https://img.shields.io/github/stars/Marouanof/nestora-ops?style=flat-square" alt="stars" /> — DevOps chain for Nestora: Docker, green CI/CD (tests, builds, Trivy, GHCR), K8s Kustomize, Terraform OCI, Prometheus/Grafana, S3Mock.
+- **[slm-se-assistant](https://github.com/Marouanof/slm-se-assistant)** <img src="https://img.shields.io/github/stars/Marouanof/slm-se-assistant?style=flat-square" alt="stars" /> — SE assistant FastAPI + React TS, 6 LangGraph agents, read-only MCP server.
+- **[Gestion-Oracle-avec-IA](https://github.com/Marouanof/Gestion-Oracle-avec-IA)** <img src="https://img.shields.io/github/stars/Marouanof/Gestion-Oracle-avec-IA?style=flat-square" alt="stars" /> — Smart Oracle admin (Streamlit): security audit, query tuning, anomaly detection, RPO/RTO + RMAN, RAG chatbot (ChromaDB, Groq).
+- **[CampusEventsIA](https://github.com/Marouanof/CampusEventsIA)** <img src="https://img.shields.io/github/stars/Marouanof/CampusEventsIA?style=flat-square" alt="stars" /> — Expo/React Native campus app + 6-mode AI assistant.
+- **[smart-ecommerce-intelligence](https://github.com/Marouanof/smart-ecommerce-intelligence)** <img src="https://img.shields.io/github/stars/Marouanof/smart-ecommerce-intelligence?style=flat-square" alt="stars" /> — E-commerce data-mining pipeline + Streamlit dashboard + Docker.
 
 ---
 
 ## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Marouanof&theme=dracula&show_icons=true&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marouanof&layout=compact&theme=dracula&hide_border=true" height="165" alt="Top Languages" />
-</p>
 
 <p align="center">
   <img src="https://ghchart.rshah.org/42A5F5/Marouanof" width="100%" alt="Contribution Chart" />
