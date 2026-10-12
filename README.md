@@ -16,11 +16,9 @@
 ---
 
 ### 🚀 About Me
-3rd-year State Engineering student in **Software & Intelligent Systems (LSI)** at FST Tanger. Two internships (Royal Air Maroc, 123 Click Agency) and flagship projects in **Java/Spring, React and applied AI** on GitHub. **Looking for a PFE internship — 4–6 months from Feb 1, 2027.**
+3rd-year State Engineering student in **Software & Intelligent Systems (LSI)** at FST Tanger. Flagship projects in **Java/Spring, React and applied AI** on GitHub. **Looking for a PFE internship — 4–6 months from Feb 1, 2027.**
 
 - 🎓 FST Tanger LSI 2024–2027 · DEUST MIP 2022–2024 · Bac Sciences Maths 2022
-- 💼 RAM Digital & IT (2026): access-badge system (SIGBA) — Spring Boot 4.1 / Java 21, React 19, PostgreSQL, Keycloak
-- 💼 123 Click Agency (2025): custom real-estate CRM — Django + React 19 / Vite / MUI / Redux
 - 🤖 Applied AI: LLM via API (Groq), RAG (ChromaDB), scikit-learn / XGBoost
 - ☁️ DevOps practiced on Nestora Ops: Docker multi-stage + Compose, GitHub Actions (GHCR, Trivy), K8s + Kustomize, Terraform OCI, Prometheus / Grafana
 
