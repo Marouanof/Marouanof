@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=42A5F5&height=120&section=header&text=Faik%20Marouane&fontSize=30&fontColor=ffffff&animation=fadeIn" width="100%" alt="header" />
+
 # Hi there, I'm Faik Marouane 👋
 ### State Engineering Student — LSI, FST Tanger (2024–2027)
 
@@ -69,6 +71,11 @@
 - **[CampusEventsIA](https://github.com/Marouanof/CampusEventsIA)** — Expo/React Native campus app + 6-mode AI assistant.
 - **[smart-ecommerce-intelligence](https://github.com/Marouanof/smart-ecommerce-intelligence)** — E-commerce data-mining pipeline + Streamlit dashboard + Docker.
 
+<p align="center">
+  <a href="https://github.com/Marouanof/Nestora"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Marouanof&repo=Nestora&theme=dracula&hide_border=true" width="49%" alt="Nestora" /></a>
+  <a href="https://github.com/Marouanof/nestora-ops"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Marouanof&repo=nestora-ops&theme=dracula&hide_border=true" width="49%" alt="nestora-ops" /></a>
+</p>
+
 ---
 
 ## 📊 GitHub Activity
@@ -80,6 +87,14 @@
 
 <p align="center">
   <img src="https://ghchart.rshah.org/42A5F5/Marouanof" width="100%" alt="Contribution Chart" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Marouanof/Marouanof/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Marouanof/Marouanof/output/github-snake-light.svg" />
+    <img src="https://raw.githubusercontent.com/Marouanof/Marouanof/output/github-snake.svg" width="100%" alt="github-snake" />
+  </picture>
 </p>
 
 <p align="center">
@@ -97,3 +112,5 @@
 
 ---
 *“Simplicity is the soul of efficiency.”*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=42A5F5&height=100&section=footer" width="100%" alt="footer" />
