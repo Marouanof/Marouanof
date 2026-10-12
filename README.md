@@ -9,8 +9,6 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/PFE-4--6_months_from_Feb_1_2027-42A5F5?style=flat-square" alt="PFE" />
-  <img src="https://img.shields.io/badge/Base-Casablanca_mob_Rabat_Tanger-42A5F5?style=flat-square" alt="Location" />
-  <img src="https://img.shields.io/badge/Focus-Fullstack_%26_Applied_AI-42A5F5?style=flat-square" alt="Focus" />
 </p>
 
 ---
