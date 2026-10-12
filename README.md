@@ -26,7 +26,7 @@
 
 ### 💻 Technical Skills
 
-#### Piliers — défendables en entretien
+#### Core Stack
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,spring,react,ts,js,python,fastapi,flask,postgres,mysql,git,github" />
@@ -35,10 +35,10 @@
 <ul>
   <li><strong>Backend:</strong> Java / Spring Boot (JPA, Security, JWT/Keycloak) · Python (FastAPI, Flask, Streamlit) · PHP / Symfony 7</li>
   <li><strong>Frontend / Mobile:</strong> React (Vite, Redux, Tailwind/MUI) · Angular · Expo / React Native</li>
-  <li><strong>Data / IA:</strong> SQL (PostgreSQL, MySQL, Oracle) · LLM via API · RAG · scikit-learn / XGBoost · notions Spark / Kafka / Airflow</li>
+  <li><strong>Data / IA:</strong> SQL (PostgreSQL, MySQL, Oracle) · LLM via API · RAG · scikit-learn / XGBoost · Spark / Kafka / Airflow</li>
 </ul>
 
-#### 🛠️ DevOps / Cloud — pratiqué sur projet Nestora Ops
+#### 🛠️ DevOps / Cloud
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,prometheus,grafana,linux,vscode,idea" />
@@ -48,7 +48,7 @@
   <li>Docker multi-stage + Compose · CI/CD GitHub Actions (GHCR, Trivy) · Kubernetes manifests + Kustomize · Terraform (OCI) · Prometheus / Grafana · S3-compatible · Keycloak / OAuth2 · Maven</li>
 </ul>
 
-#### 🗄️ Data & Middleware — notions solides
+#### 🗄️ Databases & Middleware
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mongodb,redis,rabbitmq,cassandra" />
