@@ -82,7 +82,12 @@
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Marouanof&theme=dracula&bg_color=00000000&color=42A5F5&line=42A5F5&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Marouanof&theme=dracula&show_icons=true&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marouanof&layout=compact&theme=dracula&hide_border=true" height="165" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/42A5F5/Marouanof" width="100%" alt="Contribution Chart" />
 </p>
 
 <p align="center">
