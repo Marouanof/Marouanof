@@ -90,11 +90,7 @@
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Marouanof/Marouanof/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Marouanof/Marouanof/output/github-snake-light.svg" />
-    <img src="https://raw.githubusercontent.com/Marouanof/Marouanof/output/github-snake.svg" width="100%" alt="github-snake" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/Marouanof/Marouanof/output/github-snake-dark.svg" width="100%" alt="github-snake" />
 </p>
 
 <p align="center">
