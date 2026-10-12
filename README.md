@@ -64,12 +64,12 @@
 
 ### 🔥 Featured Projects — github.com/Marouanof
 
-- **[Nestora](https://github.com/Marouanof/Nestora)** <img src="https://img.shields.io/github/stars/Marouanof/Nestora?style=flat-square" alt="stars" /> — Rental platform, Spring Boot microservices (Gateway JWT, User/Property/Booking/Notification, PostgreSQL, RabbitMQ, Stripe) + Python/FastAPI AI-service (reco, pricing XGBoost, risk scoring).
-- **[nestora-ops](https://github.com/Marouanof/nestora-ops)** <img src="https://img.shields.io/github/stars/Marouanof/nestora-ops?style=flat-square" alt="stars" /> — DevOps chain for Nestora: Docker, green CI/CD (tests, builds, Trivy, GHCR), K8s Kustomize, Terraform OCI, Prometheus/Grafana, S3Mock.
-- **[slm-se-assistant](https://github.com/Marouanof/slm-se-assistant)** <img src="https://img.shields.io/github/stars/Marouanof/slm-se-assistant?style=flat-square" alt="stars" /> — SE assistant FastAPI + React TS, 6 LangGraph agents, read-only MCP server.
-- **[Gestion-Oracle-avec-IA](https://github.com/Marouanof/Gestion-Oracle-avec-IA)** <img src="https://img.shields.io/github/stars/Marouanof/Gestion-Oracle-avec-IA?style=flat-square" alt="stars" /> — Smart Oracle admin (Streamlit): security audit, query tuning, anomaly detection, RPO/RTO + RMAN, RAG chatbot (ChromaDB, Groq).
-- **[CampusEventsIA](https://github.com/Marouanof/CampusEventsIA)** <img src="https://img.shields.io/github/stars/Marouanof/CampusEventsIA?style=flat-square" alt="stars" /> — Expo/React Native campus app + 6-mode AI assistant.
-- **[smart-ecommerce-intelligence](https://github.com/Marouanof/smart-ecommerce-intelligence)** <img src="https://img.shields.io/github/stars/Marouanof/smart-ecommerce-intelligence?style=flat-square" alt="stars" /> — E-commerce data-mining pipeline + Streamlit dashboard + Docker.
+- **[Nestora](https://github.com/Marouanof/Nestora)** <img src="https://img.shields.io/github/last-commit/Marouanof/Nestora?style=flat-square" alt="last commit" /> — Rental platform, Spring Boot microservices (Gateway JWT, User/Property/Booking/Notification, PostgreSQL, RabbitMQ, Stripe) + Python/FastAPI AI-service (reco, pricing XGBoost, risk scoring).
+- **[nestora-ops](https://github.com/Marouanof/nestora-ops)** <img src="https://img.shields.io/github/last-commit/Marouanof/nestora-ops?style=flat-square" alt="last commit" /> — DevOps chain for Nestora: Docker, green CI/CD (tests, builds, Trivy, GHCR), K8s Kustomize, Terraform OCI, Prometheus/Grafana, S3Mock.
+- **[slm-se-assistant](https://github.com/Marouanof/slm-se-assistant)** <img src="https://img.shields.io/github/last-commit/Marouanof/slm-se-assistant?style=flat-square" alt="last commit" /> — SE assistant FastAPI + React TS, 6 LangGraph agents, read-only MCP server.
+- **[Gestion-Oracle-avec-IA](https://github.com/Marouanof/Gestion-Oracle-avec-IA)** <img src="https://img.shields.io/github/last-commit/Marouanof/Gestion-Oracle-avec-IA?style=flat-square" alt="last commit" /> — Smart Oracle admin (Streamlit): security audit, query tuning, anomaly detection, RPO/RTO + RMAN, RAG chatbot (ChromaDB, Groq).
+- **[CampusEventsIA](https://github.com/Marouanof/CampusEventsIA)** <img src="https://img.shields.io/github/last-commit/Marouanof/CampusEventsIA?style=flat-square" alt="last commit" /> — Expo/React Native campus app + 6-mode AI assistant.
+- **[smart-ecommerce-intelligence](https://github.com/Marouanof/smart-ecommerce-intelligence)** <img src="https://img.shields.io/github/last-commit/Marouanof/smart-ecommerce-intelligence?style=flat-square" alt="last commit" /> — E-commerce data-mining pipeline + Streamlit dashboard + Docker.
 
 ---
 
