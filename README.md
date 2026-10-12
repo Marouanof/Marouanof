@@ -71,14 +71,6 @@
 
 ---
 
-### 🎓 Certifications · Languages · Misc
-- Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate (Sept 2025)
-- Member, dev cell — club ITGeeks, FST Tanger
-- French: fluent · Arabic: native · English: professional · Spanish: DELE A2
-- Driving license B
-
----
-
 ## 📊 GitHub Activity
 
 <p align="center">
