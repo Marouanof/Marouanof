@@ -80,7 +80,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Marouanof&label=Profile%20Views&color=42A5F5&style=flat-square" alt="Views" />
   <img src="https://img.shields.io/github/followers/Marouanof?label=Followers&style=flat-square&color=42A5F5" alt="Followers" />
 </p>
 
